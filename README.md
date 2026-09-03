@@ -1,6 +1,6 @@
 <div align="center">
 
-# CHRONICLE
+# THE CHRONICLES
 
 ### A living archive of ideas, interfaces, experiments, and things built from scratch.
 
