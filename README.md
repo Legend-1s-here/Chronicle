@@ -1,127 +1,183 @@
-<div align="center">
+<div align="center"> <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/OjQvzwKfvwoPPFKZ.png" width="100%" alt="The Chronicles — a living archive of ideas, interfaces, experiments, and things built from scratch">
 
-# THE CHRONICLES
 
-### A living archive of ideas, interfaces, experiments, and things built from scratch.
+<a href="https://portfolio-tau-jade-76.vercel.app"><img src="https://img.shields.io/badge/ENTER_THE_PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Enter the portfolio"></a><a href="https://github.com/Legend-1s-here"><img src="https://img.shields.io/badge/EXPLORE_THE_SOURCE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore the source"></a><a href="mailto:priyanshpratham2000@gmail.com"><img src="https://img.shields.io/badge/OPEN_A_CONVERSATION-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Open a conversation"></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tau-jade-76.vercel.app)[![GitHub](https://img.shields.io/badge/GitHub-Legend--1s--here-181717?style=for-the-badge&logo=github)](https://github.com/Legend-1s-here)[![Projects](https://img.shields.io/badge/Projects-04-06B6D4?style=for-the-badge&logo=rocket&logoColor=white)](#-the-archive)
+
+
+
+
+`ARCHIVE 06` · `INTERFACES / SYSTEMS / EXPERIMENTS` · `ALWAYS IN PROGRESS`
 
 </div>
 
 ---
 
-## The Archive
+## 00 / The Premise
 
-**Chronicle** is my personal index of selected work: a collection of full-stack builds, immersive interfaces, accessibility experiments, and digital experiences. Each project is a small record of curiosity turned into something tangible.
+**The Chronicles** is a living archive of things built from scratch: immersive interfaces, full-stack products, accessibility tools, creative coding experiments, and small ideas that grew into something tangible.
+
+This is not a résumé in list form. It is a record of the questions I chose to turn into software.
 
 > **Build boldly. Learn constantly. Leave a trace.**
 
-## Featured Work
+<div align="center">
+
+### Six projects. Six different ways to make a screen feel alive.
+
+</div>
+
+## 01 / Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [PastPort India](https://client-lime-delta-43.vercel.app)
+<a href="https://client-lime-delta-43.vercel.app"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/boKVUYCvQkwOFmlc.png" width="100%" alt="PastPort India visual"></a>
 
-#### Digital Heritage Archive
+### [PASTPORT INDIA](https://client-lime-delta-43.vercel.app)
 
-A browser-native journey through India's architectural heritage. Explore source-backed historical reconstructions, interactive 3D monuments, and spatial experiences inspired by ASI and UNESCO records.
+#### Digital heritage, made explorable.
 
-**Focus:** 3D experiences · Digital heritage · WebXR
+A browser-native journey through India's architectural heritage. Source-backed historical reconstructions meet interactive 3D monuments and spatial experiences inspired by ASI and UNESCO records.
 
-[Explore the experience →](https://client-lime-delta-43.vercel.app)
+**Built around:** `3D experiences` · `Digital heritage` · `WebXR`
+
+[Open the experience ↗](https://client-lime-delta-43.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### [Limitless](https://github.com/Legend-1s-here/Limitless)
+<a href="https://github.com/Legend-1s-here/Limitless"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/dnvkMsnlqPxLIRIJ.png" width="100%" alt="Limitless supernatural energy visual"></a>
 
-#### Gesture-Driven Particle Experiment
+### [LIMITLESS](https://github.com/Legend-1s-here/Limitless)
 
-A cinematic particle simulation that turns hand gestures into visual techniques. Pinch, cross, or point to summon Hollow Purple, Infinite Void, and Red.
+#### Gesture becomes visual language.
 
-**Focus:** Hand tracking · Creative coding · Interaction design
+A cinematic particle experiment that translates hand movement into reactive techniques. Pinch, cross, or point to transform the scene through creative interaction.
 
-[Repository →](https://github.com/Legend-1s-here/Limitless) · [Live demo →](https://legend-1s-here.github.io/Limitless/)
+**Built around:** `Hand tracking` · `Creative coding` · `Interaction design`
+
+[Source ↗](https://github.com/Legend-1s-here/Limitless) · [Live demo ↗](https://legend-1s-here.github.io/Limitless/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Vision for Blind](https://github.com/Legend-1s-here/Vision-For-Blind)
+<a href="https://github.com/Legend-1s-here/Vision-For-Blind"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/MMEhumntCrkovERx.png" width="100%" alt="Vision for Blind visual"></a>
 
-#### Voice-Controlled Accessibility Assistant
+### [VISION FOR BLIND](https://github.com/Legend-1s-here/Vision-For-Blind)
 
-A Windows assistant designed to help users interact with their computer through voice. It supports app control, screen reading, web search, messaging, and spoken confirmation.
+#### A computer that speaks back.
 
-**Focus:** Machine learning · Accessibility · Voice interfaces
+A Windows assistant designed around voice-first interaction. It supports app control, screen reading, web search, messaging, and spoken confirmation for a more accessible desktop experience.
 
-[Explore the repository →](https://github.com/Legend-1s-here/Vision-For-Blind)
+**Built around:** `Machine learning` · `Accessibility` · `Voice interfaces`
+
+[Explore the repository ↗](https://github.com/Legend-1s-here/Vision-For-Blind)
 
 </td>
 <td width="50%" valign="top">
 
-### [Portfolio](https://portfolio-tau-jade-76.vercel.app)
+<a href="https://portfolio-tau-jade-76.vercel.app"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/jluMecbNSLWOLrDP.png" width="100%" alt="Portfolio visual"></a>
 
-#### Full-Stack Developer Portfolio
+### [PORTFOLIO](https://portfolio-tau-jade-76.vercel.app)
 
-An interactive portfolio presenting my work across software, AI, hardware, competitive programming, and experimental interfaces.
+#### A map of the work behind the work.
 
-**Focus:** Personal brand · Interactive UI · Project showcase
+An interactive portfolio presenting projects across software, AI, hardware, competitive programming, and experimental interfaces — all in one personal digital space.
 
-[Visit the portfolio →](https://portfolio-tau-jade-76.vercel.app)
+**Built around:** `Personal brand` · `Interactive UI` · `Project showcase`
+
+[Visit the portfolio ↗](https://portfolio-tau-jade-76.vercel.app)
 
 </td>
 </tr>
-</table>   
+<tr>
+<td width="50%" valign="top">
 
+<a href="https://github.com/Legend-1s-here/Last_Battle"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/IoUbRhtbBOzvKphP.png" width="100%" alt="Last Battle visual"></a>
 
-## The Archive at a Glance
+### [LAST BATTLE](https://github.com/Legend-1s-here/Last_Battle)
 
-| Project | What it explores | Type | Access |
+#### Webcam gestures. Jutsu awakened.
+
+A browser-based hand-tracking battle experiment. Build a gesture sequence with your webcam and trigger reactive Rasengan and Chidori effects as the interface responds in real time.
+
+**Built around:** `MediaPipe Hands` · `Webcam interaction` · `Canvas effects`
+
+[Enter the battle ↗](https://github.com/Legend-1s-here/Last_Battle)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://persona-portfolio-ashy.vercel.app"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/cQJeMItKahJaocMU.png" width="100%" alt="Persona Portfolio urban game interface visual"></a>
+
+### [PERSONA PORTFOLIO](https://persona-portfolio-ashy.vercel.app)
+
+#### A portfolio with a pulse.
+
+A cinematic developer portfolio built as an interactive identity: diagonal navigation, kinetic typography, character cards, video loops, dossier-style project views, and keyboard-friendly controls.
+
+**Built around:** `React` · `Vite` · `Framer Motion`
+
+[Live portfolio ↗](https://persona-portfolio-ashy.vercel.app) · [Source ↗](https://github.com/Legend-1s-here/Persona_Portfolio)
+
+</td>
+</tr>
+</table>
+
+## 02 / The Index
+
+| Entry | Medium | Core question | Open |
 | --- | --- | --- | --- |
-| **PastPort India** | History through interactive spatial experiences | Live product | [Visit](https://client-lime-delta-43.vercel.app) |
-| **Limitless** | Gesture-controlled particles and creative interaction | Open-source experiment | [Code](https://github.com/Legend-1s-here/Limitless) · [Demo](https://legend-1s-here.github.io/Limitless/) |
-| **Vision for Blind** | Voice-first computer accessibility | ML application | [Code](https://github.com/Legend-1s-here/Vision-For-Blind) |
-| **Portfolio** | A living map of my work and capabilities | Personal site | [Visit](https://portfolio-tau-jade-76.vercel.app) |
+| **PastPort India** | Live experience | Can history become a place you can enter? | [Visit](https://client-lime-delta-43.vercel.app) |
+| **Limitless** | Open-source experiment | Can a gesture become a spell? | [Code](https://github.com/Legend-1s-here/Limitless) |
+| **Vision for Blind** | ML application | Can a computer explain itself aloud? | [Code](https://github.com/Legend-1s-here/Vision-For-Blind) |
+| **Portfolio** | Personal site | How should a body of work feel? | [Visit](https://portfolio-tau-jade-76.vercel.app) |
+| **Last Battle** | Browser experiment | What happens when the webcam becomes a controller? | [Code](https://github.com/Legend-1s-here/Last_Battle) |
+| **Persona Portfolio** | Interactive portfolio | Can a portfolio feel like entering a world? | [Live](https://persona-portfolio-ashy.vercel.app) |
 
-## What I Like Building
+## 03 / Design Language
 
-I enjoy working at the intersection of **software engineering, artificial intelligence, hardware, and visual design**. My projects often begin as unusual questions: What if history could be explored in 3D? What if a hand gesture could control a universe of particles? What if a computer could explain every action aloud?
+I like software that does more than function. I like interfaces with **a point of view**, products that make complex ideas feel approachable, and experiments that turn the browser into a place to explore.
 
-| Area | Interests |
+| Direction | How it shows up in the archive |
 | --- | --- |
-| **Engineering** | Full-stack applications, APIs, systems, and developer tools |
-| **Intelligence** | Machine learning, voice assistants, computer vision, and automation |
-| **Experience** | Interactive 3D, creative coding, accessibility, and visual interfaces |
-| **Foundations** | Data structures, algorithms, competitive programming, and problem solving |
+| **Immersion** | 3D spaces, motion, spatial storytelling, and interfaces that reward curiosity |
+| **Expression** | Kinetic typography, particles, visual feedback, and creative coding |
+| **Access** | Voice-first workflows, readable interaction, and technology designed to include more people |
+| **Systems** | Full-stack applications, APIs, machine learning, and dependable foundations |
 
-## Technology Palette
+## 04 / Toolkit
 
-<div align="center">
+<div align="center"> <img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,react,vite,firebase,nodejs,mongodb,git,github,vscode,html,css&perline=8" alt="Technology toolkit">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
 
-## Connect
 
-If a project catches your attention, feel free to explore the code, try the live experiences, or start a conversation.
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshpratham2000@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyansh%20Shrivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-shrivastava-90a93836b/)[![GitHub](https://img.shields.io/badge/GitHub-Explore%20more-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Legend-1s-here)
+`FRONTEND` `FULL STACK` `MACHINE LEARNING` `CREATIVE CODING` `COMPUTER VISION` `ACCESSIBILITY`
 
 </div>
 
----
+## 05 / Current Transmission
+
+The archive is still moving. New interfaces are being tested, old ideas are being rebuilt, and every project leaves behind a better question than the one it started with.
+
+If something here catches your attention, explore the source, try the live experience, or reach out.
 
 <div align="center">
 
-**Priyansh Shrivastava** · Full-Stack Developer & Computer Science Student
+<a href="https://portfolio-tau-jade-76.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a><a href="https://github.com/Legend-1s-here"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a><a href="https://www.linkedin.com/in/priyansh-shrivastava-90a93836b/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="mailto:priyanshpratham2000@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
-*This archive evolves with every idea, experiment, and project.*
+
+
+
+
+**PRIYANSH SHRIVASTAVA** · FULL-STACK DEVELOPER · COMPUTER SCIENCE STUDENT
+
+`THE CHRONICLES // THIS ARCHIVE EVOLVES WITH EVERY IDEA, EXPERIMENT, AND PROJECT.`
 
 </div>
