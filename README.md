@@ -1,13 +1,8 @@
 <div align="center"> <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/OjQvzwKfvwoPPFKZ.png" width="100%" alt="The Chronicles — a living archive of ideas, interfaces, experiments, and things built from scratch">
 
-
 <a href="https://portfolio-tau-jade-76.vercel.app"><img src="https://img.shields.io/badge/ENTER_THE_PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Enter the portfolio"></a><a href="https://github.com/Legend-1s-here"><img src="https://img.shields.io/badge/EXPLORE_THE_SOURCE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore the source"></a><a href="mailto:priyanshpratham2000@gmail.com"><img src="https://img.shields.io/badge/OPEN_A_CONVERSATION-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Open a conversation"></a>
 
-
-
-
-
-`ARCHIVE 06` · `INTERFACES / SYSTEMS / EXPERIMENTS` · `ALWAYS IN PROGRESS`
+`ARCHIVE 08` · `INTERFACES / SYSTEMS / EXPERIMENTS` · `ALWAYS IN PROGRESS`
 
 </div>
 
@@ -23,7 +18,7 @@ This is not a résumé in list form. It is a record of the questions I chose to 
 
 <div align="center">
 
-### Six projects. Six different ways to make a screen feel alive.
+### Eight projects. Eight different ways to make a screen feel alive.
 
 </div>
 
@@ -35,7 +30,7 @@ This is not a résumé in list form. It is a record of the questions I chose to 
 
 <a href="https://client-lime-delta-43.vercel.app"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/boKVUYCvQkwOFmlc.png" width="100%" alt="PastPort India visual"></a>
 
-### [PASTPORT INDIA](https://client-lime-delta-43.vercel.app)
+### ✦ [**PASTPORT INDIA**](https://client-lime-delta-43.vercel.app) ✦
 
 #### Digital heritage, made explorable.
 
@@ -50,7 +45,7 @@ A browser-native journey through India's architectural heritage. Source-backed h
 
 <a href="https://github.com/Legend-1s-here/Limitless"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/dnvkMsnlqPxLIRIJ.png" width="100%" alt="Limitless supernatural energy visual"></a>
 
-### [LIMITLESS](https://github.com/Legend-1s-here/Limitless)
+### ◈ [**LIMITLESS**](https://github.com/Legend-1s-here/Limitless) ◈
 
 #### Gesture becomes visual language.
 
@@ -67,7 +62,7 @@ A cinematic particle experiment that translates hand movement into reactive tech
 
 <a href="https://github.com/Legend-1s-here/Vision-For-Blind"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/MMEhumntCrkovERx.png" width="100%" alt="Vision for Blind visual"></a>
 
-### [VISION FOR BLIND](https://github.com/Legend-1s-here/Vision-For-Blind)
+### ◌ [**VISION FOR BLIND**](https://github.com/Legend-1s-here/Vision-For-Blind) ◌
 
 #### A computer that speaks back.
 
@@ -82,7 +77,7 @@ A Windows assistant designed around voice-first interaction. It supports app con
 
 <a href="https://portfolio-tau-jade-76.vercel.app"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/jluMecbNSLWOLrDP.png" width="100%" alt="Portfolio visual"></a>
 
-### [PORTFOLIO](https://portfolio-tau-jade-76.vercel.app)
+### ⟡ [**PORTFOLIO**](https://portfolio-tau-jade-76.vercel.app) ⟡
 
 #### A map of the work behind the work.
 
@@ -99,7 +94,7 @@ An interactive portfolio presenting projects across software, AI, hardware, comp
 
 <a href="https://github.com/Legend-1s-here/Last_Battle"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/IoUbRhtbBOzvKphP.png" width="100%" alt="Last Battle visual"></a>
 
-### [LAST BATTLE](https://github.com/Legend-1s-here/Last_Battle)
+### ⚡ [**LAST BATTLE**](https://github.com/Legend-1s-here/Last_Battle) ⚡
 
 #### Webcam gestures. Jutsu awakened.
 
@@ -114,7 +109,7 @@ A browser-based hand-tracking battle experiment. Build a gesture sequence with y
 
 <a href="https://persona-portfolio-ashy.vercel.app"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/cQJeMItKahJaocMU.png" width="100%" alt="Persona Portfolio urban game interface visual"></a>
 
-### [PERSONA PORTFOLIO](https://persona-portfolio-ashy.vercel.app)
+### ◆ [**PERSONA PORTFOLIO**](https://persona-portfolio-ashy.vercel.app) ◆
 
 #### A portfolio with a pulse.
 
@@ -123,6 +118,38 @@ A cinematic developer portfolio built as an interactive identity: diagonal navig
 **Built around:** `React` · `Vite` · `Framer Motion`
 
 [Live portfolio ↗](https://persona-portfolio-ashy.vercel.app) · [Source ↗](https://github.com/Legend-1s-here/Persona_Portfolio)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Legend-1s-here/Celestial-Whisper"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/YuDQyceuzQcoChFR.png" width="100%" alt="Celestial Whisper floating lyrics visual"></a>
+
+### ❖ [**CELESTIAL WHISPER**](https://github.com/Legend-1s-here/Celestial-Whisper) ❖
+
+#### Lyrics that stay with the scene.
+
+A Windows desktop overlay that keeps synchronized Spotify lyrics visible above games, editors, browsers, and videos — with language modes, click-through gaming, and a Sakura-themed control room.
+
+**Built around:** `PyQt6` · `Windows Media Session` · `Synchronized lyrics`
+
+[Explore the repository ↗](https://github.com/Legend-1s-here/Celestial-Whisper)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://quotaverse-beta.vercel.app"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/hrfpJKMqysPdxXUp.png" width="100%" alt="QuotaVerse AI quota command center visual"></a>
+
+### ✧ [**QUOTAVERSE**](https://github.com/Legend-1s-here/QuotaVerse) ✧
+
+#### Never get blindsided by a rate limit again.
+
+A multi-account AI quota and subscription command center for tracking cooldowns, renewals, costs, snapshots, and readiness across tools such as Claude, Gemini, Codex, Cursor, Copilot, and more.
+
+**Built around:** `React` · `TypeScript` · `Supabase` · `Vite`
+
+[Live app ↗](https://quotaverse-beta.vercel.app) · [Source ↗](https://github.com/Legend-1s-here/QuotaVerse)
 
 </td>
 </tr>
@@ -138,6 +165,8 @@ A cinematic developer portfolio built as an interactive identity: diagonal navig
 | **Portfolio** | Personal site | How should a body of work feel? | [Visit](https://portfolio-tau-jade-76.vercel.app) |
 | **Last Battle** | Browser experiment | What happens when the webcam becomes a controller? | [Code](https://github.com/Legend-1s-here/Last_Battle) |
 | **Persona Portfolio** | Interactive portfolio | Can a portfolio feel like entering a world? | [Live](https://persona-portfolio-ashy.vercel.app) |
+| **Celestial Whisper** | Windows desktop utility | Can lyrics stay visible without taking over the screen? | [Code](https://github.com/Legend-1s-here/Celestial-Whisper) |
+| **QuotaVerse** | AI productivity command center | Can rate limits become something you can plan around? | [Live](https://quotaverse-beta.vercel.app) · [Code](https://github.com/Legend-1s-here/QuotaVerse) |
 
 ## 03 / Design Language
 
@@ -154,10 +183,6 @@ I like software that does more than function. I like interfaces with **a point o
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,react,vite,firebase,nodejs,mongodb,git,github,vscode,html,css&perline=8" alt="Technology toolkit">
 
-
-
-
-
 `FRONTEND` `FULL STACK` `MACHINE LEARNING` `CREATIVE CODING` `COMPUTER VISION` `ACCESSIBILITY`
 
 </div>
@@ -171,10 +196,6 @@ If something here catches your attention, explore the source, try the live exper
 <div align="center">
 
 <a href="https://portfolio-tau-jade-76.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a><a href="https://github.com/Legend-1s-here"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a><a href="https://www.linkedin.com/in/priyansh-shrivastava-90a93836b/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="mailto:priyanshpratham2000@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-
-
-
-
 
 **PRIYANSH SHRIVASTAVA** · FULL-STACK DEVELOPER · COMPUTER SCIENCE STUDENT
 
