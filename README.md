@@ -8,7 +8,7 @@
 
 ---
 
-## 00 / The Premise
+## ✦ 00 / THE PREMISE ✦
 
 **The Chronicles** is a living archive of things built from scratch: immersive interfaces, full-stack products, accessibility tools, creative coding experiments, and small ideas that grew into something tangible.
 
@@ -22,7 +22,7 @@ This is not a résumé in list form. It is a record of the questions I chose to 
 
 </div>
 
-## 01 / Selected Work
+## ◈ 01 / SELECTED WORK ◈
 
 <table>
 <tr>
@@ -30,7 +30,7 @@ This is not a résumé in list form. It is a record of the questions I chose to 
 
 <a href="https://client-lime-delta-43.vercel.app"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/boKVUYCvQkwOFmlc.png" width="100%" alt="PastPort India visual"></a>
 
-### ✦ [**PASTPORT INDIA**](https://client-lime-delta-43.vercel.app) ✦
+### ⌂ [**PASTPORT INDIA**](https://client-lime-delta-43.vercel.app) ⌂
 
 #### Digital heritage, made explorable.
 
@@ -45,7 +45,7 @@ A browser-native journey through India's architectural heritage. Source-backed h
 
 <a href="https://github.com/Legend-1s-here/Limitless"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/dnvkMsnlqPxLIRIJ.png" width="100%" alt="Limitless supernatural energy visual"></a>
 
-### ◈ [**LIMITLESS**](https://github.com/Legend-1s-here/Limitless) ◈
+### ∞ [**LIMITLESS**](https://github.com/Legend-1s-here/Limitless) ∞
 
 #### Gesture becomes visual language.
 
@@ -62,7 +62,7 @@ A cinematic particle experiment that translates hand movement into reactive tech
 
 <a href="https://github.com/Legend-1s-here/Vision-For-Blind"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/MMEhumntCrkovERx.png" width="100%" alt="Vision for Blind visual"></a>
 
-### ◌ [**VISION FOR BLIND**](https://github.com/Legend-1s-here/Vision-For-Blind) ◌
+### ◉ [**VISION FOR BLIND**](https://github.com/Legend-1s-here/Vision-For-Blind) ◉
 
 #### A computer that speaks back.
 
@@ -77,7 +77,7 @@ A Windows assistant designed around voice-first interaction. It supports app con
 
 <a href="https://portfolio-tau-jade-76.vercel.app"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/jluMecbNSLWOLrDP.png" width="100%" alt="Portfolio visual"></a>
 
-### ⟡ [**PORTFOLIO**](https://portfolio-tau-jade-76.vercel.app) ⟡
+### ⌘ [**PORTFOLIO**](https://portfolio-tau-jade-76.vercel.app) ⌘
 
 #### A map of the work behind the work.
 
@@ -94,7 +94,7 @@ An interactive portfolio presenting projects across software, AI, hardware, comp
 
 <a href="https://github.com/Legend-1s-here/Last_Battle"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/IoUbRhtbBOzvKphP.png" width="100%" alt="Last Battle visual"></a>
 
-### ⚡ [**LAST BATTLE**](https://github.com/Legend-1s-here/Last_Battle) ⚡
+### ⚔ [**LAST BATTLE**](https://github.com/Legend-1s-here/Last_Battle) ⚔
 
 #### Webcam gestures. Jutsu awakened.
 
@@ -126,7 +126,7 @@ A cinematic developer portfolio built as an interactive identity: diagonal navig
 
 <a href="https://github.com/Legend-1s-here/Celestial-Whisper"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/YuDQyceuzQcoChFR.png" width="100%" alt="Celestial Whisper floating lyrics visual"></a>
 
-### ❖ [**CELESTIAL WHISPER**](https://github.com/Legend-1s-here/Celestial-Whisper) ❖
+### ♫ [**CELESTIAL WHISPER**](https://github.com/Legend-1s-here/Celestial-Whisper) ♫
 
 #### Lyrics that stay with the scene.
 
@@ -141,7 +141,7 @@ A Windows desktop overlay that keeps synchronized Spotify lyrics visible above g
 
 <a href="https://quotaverse-beta.vercel.app"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663886659791/hrfpJKMqysPdxXUp.png" width="100%" alt="QuotaVerse AI quota command center visual"></a>
 
-### ✧ [**QUOTAVERSE**](https://github.com/Legend-1s-here/QuotaVerse) ✧
+### ◎ [**QUOTAVERSE**](https://github.com/Legend-1s-here/QuotaVerse) ◎
 
 #### Never get blindsided by a rate limit again.
 
@@ -155,7 +155,7 @@ A multi-account AI quota and subscription command center for tracking cooldowns,
 </tr>
 </table>
 
-## 02 / The Index
+## ⟡ 02 / THE INDEX ⟡
 
 | Entry | Medium | Core question | Open |
 | --- | --- | --- | --- |
@@ -168,7 +168,7 @@ A multi-account AI quota and subscription command center for tracking cooldowns,
 | **Celestial Whisper** | Windows desktop utility | Can lyrics stay visible without taking over the screen? | [Code](https://github.com/Legend-1s-here/Celestial-Whisper) |
 | **QuotaVerse** | AI productivity command center | Can rate limits become something you can plan around? | [Live](https://quotaverse-beta.vercel.app) · [Code](https://github.com/Legend-1s-here/QuotaVerse) |
 
-## 03 / Design Language
+## ◌ 03 / DESIGN LANGUAGE ◌
 
 I like software that does more than function. I like interfaces with **a point of view**, products that make complex ideas feel approachable, and experiments that turn the browser into a place to explore.
 
@@ -179,7 +179,7 @@ I like software that does more than function. I like interfaces with **a point o
 | **Access** | Voice-first workflows, readable interaction, and technology designed to include more people |
 | **Systems** | Full-stack applications, APIs, machine learning, and dependable foundations |
 
-## 04 / Toolkit
+## ⚡ 04 / TOOLKIT ⚡
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript,react,vite,firebase,nodejs,mongodb,git,github,vscode,html,css&perline=8" alt="Technology toolkit">
 
@@ -187,7 +187,7 @@ I like software that does more than function. I like interfaces with **a point o
 
 </div>
 
-## 05 / Current Transmission
+## ❖ 05 / CURRENT TRANSMISSION ❖
 
 The archive is still moving. New interfaces are being tested, old ideas are being rebuilt, and every project leaves behind a better question than the one it started with.
 
